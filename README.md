@@ -1,4 +1,4 @@
-# Arduino Smart Room System
+# Garden Monitoring System
 
 This Arduino project is designed to create a smart room system using various sensors and actuators. The system incorporates a temperature sensor, a light sensor, and a distance sensor to perform different functions based on the environmental conditions.
 
